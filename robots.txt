@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://adeinglide.github.io/sitemap.html.gz
+Sitemap: https://adeinglide.github.io/app/sitemap.html.gz
+Sitemap: https://adeinglide.github.io/assets/sitemap.html.gz
+Sitemap: https://adeinglide.github.io/css/sitemap.html.gz
+Sitemap: https://adeinglide.github.io/includes/sitemap.html.gz
+Sitemap: https://adeinglide.github.io/item/sitemap.html.gz
+Sitemap: https://adeinglide.github.io/src/sitemap.html.gz
